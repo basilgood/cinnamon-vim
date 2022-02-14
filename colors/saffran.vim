@@ -25,7 +25,7 @@ highlight CursorIM              guifg=#1F1F1F guibg=#A020F0 ctermfg=233  ctermbg
 highlight CursorLine            guifg=NONE    guibg=#273038 ctermfg=NONE ctermbg=16   gui=NONE      cterm=NONE      term=NONE
 highlight LineNr                guifg=#38444F guibg=NONE    ctermfg=17   ctermbg=NONE gui=NONE      cterm=NONE      term=NONE
 highlight SpecialKey            guifg=#5C5552 guibg=NONE    ctermfg=59   ctermbg=NONE gui=NONE      cterm=NONE      term=NONE
-highlight Visual                guifg=NONE    guibg=#422E35 ctermfg=NONE ctermbg=16   gui=NONE      cterm=NONE      term=NONE
+highlight Visual                guifg=NONE    guibg=#2a3746 ctermfg=NONE ctermbg=16   gui=NONE      cterm=NONE      term=NONE
 highlight Search                guifg=NONE    guibg=#4C4B27 ctermfg=NONE ctermbg=58   gui=NONE      cterm=NONE      term=NONE
 highlight IncSearch             guifg=NONE    guibg=#38252C ctermfg=NONE ctermbg=16   gui=NONE      cterm=NONE      term=NONE
 highlight VisualNOS             guifg=#000000 guibg=NONE    ctermfg=16   ctermbg=NONE gui=NONE      cterm=NONE      term=NONE
