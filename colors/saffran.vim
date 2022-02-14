@@ -27,7 +27,7 @@ highlight LineNr                guifg=#38444F guibg=NONE    ctermfg=17   ctermbg
 highlight SpecialKey            guifg=#5C5552 guibg=NONE    ctermfg=59   ctermbg=NONE gui=NONE      cterm=NONE      term=NONE
 highlight Visual                guifg=NONE    guibg=#2a3746 ctermfg=NONE ctermbg=16   gui=NONE      cterm=NONE      term=NONE
 highlight Search                guifg=NONE    guibg=#323853 ctermfg=NONE ctermbg=17   gui=NONE      cterm=NONE      term=NONE
-highlight IncSearch             guifg=NONE    guibg=#38252C ctermfg=NONE ctermbg=16   gui=NONE      cterm=NONE      term=NONE
+highlight IncSearch             guifg=NONE    guibg=#733a4e ctermfg=NONE ctermbg=89   gui=NONE      cterm=NONE      term=NONE
 highlight VisualNOS             guifg=#000000 guibg=NONE    ctermfg=16   ctermbg=NONE gui=NONE      cterm=NONE      term=NONE
 highlight Folded                guifg=#847656 guibg=#1F1F1F ctermfg=101  ctermbg=233  gui=NONE      cterm=NONE      term=NONE
 highlight FoldColumn            guifg=#A5978B guibg=#1F1F1F ctermfg=138  ctermbg=233  gui=NONE      cterm=NONE      term=NONE
