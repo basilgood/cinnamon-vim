@@ -10,14 +10,14 @@ let g:colors_name = 'saffran'
 
 
 highlight Normal                guifg=#878680 guibg=#252C37 ctermfg=102  ctermbg=16   gui=NONE      cterm=NONE      term=NONE
-highlight Comment               guifg=#3E473D guibg=NONE    ctermfg=16   ctermbg=NONE gui=NONE      cterm=NONE      term=NONE
+highlight Comment               guifg=#404F3A guibg=NONE    ctermfg=22   ctermbg=NONE gui=NONE      cterm=NONE      term=NONE
 highlight Todo                  guifg=#ff7f00 guibg=NONE    ctermfg=208  ctermbg=NONE gui=NONE      cterm=NONE      term=NONE
 highlight Number                guifg=#8C5C5C guibg=NONE    ctermfg=95   ctermbg=NONE gui=NONE      cterm=NONE      term=NONE
 highlight String                guifg=#5E7D87 guibg=NONE    ctermfg=66   ctermbg=NONE gui=NONE      cterm=NONE      term=NONE
 highlight PreProc               guifg=#847656 guibg=NONE    ctermfg=101  ctermbg=NONE gui=NONE      cterm=NONE      term=NONE
 highlight Type                  guifg=#6A7087 guibg=NONE    ctermfg=60   ctermbg=NONE gui=NONE      cterm=NONE      term=NONE
 highlight Statement             guifg=#9B5D50 guibg=NONE    ctermfg=131  ctermbg=NONE gui=NONE      cterm=NONE      term=NONE
-highlight Special               guifg=#895C6B guibg=NONE    ctermfg=95   ctermbg=NONE gui=NONE      cterm=NONE      term=NONE
+highlight SpecialKey            guifg=#404F3A guibg=NONE    ctermfg=22   ctermbg=NONE gui=NONE      cterm=NONE      term=NONE
 highlight ErrorMsg              guifg=#2E2B2A guibg=#B55E5E ctermfg=16   ctermbg=131  gui=NONE      cterm=NONE      term=NONE
 highlight WarningMsg            guifg=#2E2B2A guibg=#B59A5E ctermfg=16   ctermbg=137  gui=NONE      cterm=NONE      term=NONE
 highlight Cursor                guifg=#1F1F1F guibg=#FFF8DC ctermfg=233  ctermbg=230  gui=NONE      cterm=NONE      term=NONE
