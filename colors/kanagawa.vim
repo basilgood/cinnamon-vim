@@ -105,11 +105,13 @@ hi GitGutterChangeDelete guifg=#BF616A guibg=#1F1F28
 hi GitGutterDelete guifg=#BF616A guibg=#1F1F28
 hi ALEWarningSign guifg=#EBCB8B guibg=#1F1F28
 hi ALEErrorSign guifg=#BF616A guibg=#1F1F28
+hi ALEInfoSign guifg=#83a598 guibg=#1F1F28
 hi link CocCodeLens Comment
 hi link CocErrorSign ALEErrorSign
 hi link CocWarningSign ALEWarningSign
 hi link CocInfoSign ALEInfoSign
 hi link CocHintSign ALEInfoSign
+hi link CocHintLine ALEInfoSign
 hi link CocErrorHighlight ALEError
 hi link CocWarningHighlight ALEWarning
 hi link CocInfoHighlight ALEInfo
