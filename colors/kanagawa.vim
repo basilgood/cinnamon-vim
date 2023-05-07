@@ -102,9 +102,11 @@ hi GitGutterAdd guifg=#A3BE8C guibg=#1F1F28
 hi GitGutterChange guifg=#EBCB8B guibg=#1F1F28
 hi GitGutterChangeDelete guifg=#BF616A guibg=#1F1F28
 hi GitGutterDelete guifg=#BF616A guibg=#1F1F28
+
 hi ALEWarningSign guifg=#EBCB8B guibg=#1F1F28
 hi ALEErrorSign guifg=#BF616A guibg=#1F1F28
 hi ALEInfoSign guifg=#83a598 guibg=#1F1F28
+
 hi link CocCodeLens Comment
 hi link CocErrorSign ALEErrorSign
 hi link CocWarningSign ALEWarningSign
@@ -119,6 +121,7 @@ hi link CocGitChangeRemovedSign GitGutterChangeDelete
 hi link CocGitChangedSign GitGutterChange
 hi link CocGitRemovedSign GitGutterDelete
 hi link CocGitTopRemovedSign GitGutterDelete
+hi link CocInlayHint Comment
 
 hi jsVariableDef guifg=#ffa066
 hi jsFuncBlock guifg=#b8b4d0
