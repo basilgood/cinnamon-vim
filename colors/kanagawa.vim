@@ -57,14 +57,14 @@ hi Search       guifg=NONE guibg=#223249 gui=NONE
 hi CurSearch    guifg=NONE guibg=#bf2232 gui=NONE
 hi IncSearch    guifg=NONE guibg=#bf2232 gui=NONE cterm=NONE
 
-hi DiffAdd     guibg=#272732 guifg=NONE      gui=NONE
-hi DiffDelete  guibg=NONE guifg=#93464e      gui=NONE ctermfg=NONE
-hi DiffChange  guibg=#272732 guifg=NONE      gui=NONE
-hi DiffText    guibg=#282828 guifg=NONE      gui=NONE
-hi diffAdded   guibg=NONE    guifg=#76946A   gui=NONE
-hi diffRemoved guibg=NONE    guifg=#B55E5E   gui=NONE
-hi diffLine    guibg=#252535 guifg=NONE      gui=NONE
-hi diffSubname guibg=NONE    guifg=#575921   gui=NONE
+hi DiffAdd     guifg=NONE guibg=#383b40      gui=NONE
+hi DiffDelete  guifg=#93464e guibg=NONE      gui=NONE ctermfg=NONE
+hi DiffChange  guifg=NONE guibg=#272732      gui=NONE
+hi DiffText    guifg=NONE guibg=#40383b      gui=NONE
+hi diffAdded   guifg=#76946A    guibg=NONE   gui=NONE
+hi diffRemoved guifg=#B55E5E    guibg=NONE   gui=NONE
+hi diffLine    guifg=NONE guibg=#252535      gui=NONE
+hi diffSubname guifg=#575921    guibg=NONE   gui=NONE
 
 hi MsgArea      guifg=NONE guibg=#303030 gui=NONE
 hi LineNr       guifg=#46465a guibg=#1f1f28 gui=NONE
