@@ -46,7 +46,7 @@ hi Float        guifg=#d27e99 guibg=NONE gui=NONE
 hi Number       guifg=#d27e99 guibg=NONE gui=NONE
 hi Constant     guifg=#d27e99 guibg=NONE gui=NONE
 hi SpecialChar  guifg=#d27e99 guibg=NONE gui=NONE
-hi MatchParen   guifg=#d27e99 guibg=NONE gui=NONE
+hi MatchParen   guifg=#1d1f21 guibg=#5F5F87 gui=NONE
 hi Todo         guifg=#d27e99 guibg=NONE gui=NONE
 
 hi Error        guifg=#e82424 guibg=NONE gui=NONE
