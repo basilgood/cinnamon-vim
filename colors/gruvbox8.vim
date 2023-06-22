@@ -65,7 +65,7 @@ hi WildMenu guifg=#83a598 guibg=#504945 gui=bold cterm=bold
 hi Conceal guifg=#83a598 guibg=NONE gui=NONE cterm=NONE
 hi Cursor guifg=NONE guibg=NONE gui=reverse ctermfg=NONE ctermbg=NONE cterm=reverse
 hi DiffAdd     guibg=#222222 guifg=NONE      gui=NONE
-hi DiffDelete  guibg=#222222 guifg=NONE      gui=NONE ctermfg=NONE
+hi DiffDelete  guibg=#222222 guifg=#af5f5f      gui=NONE ctermfg=NONE
 hi DiffChange  guibg=#222222 guifg=NONE      gui=NONE
 hi DiffText    guibg=#2d3052 guifg=NONE      gui=NONE
 hi Directory guifg=#b8bb26 guibg=NONE gui=bold cterm=bold
