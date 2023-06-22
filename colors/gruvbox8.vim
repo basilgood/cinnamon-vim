@@ -67,7 +67,7 @@ hi Cursor guifg=NONE guibg=NONE gui=reverse ctermfg=NONE ctermbg=NONE cterm=reve
 hi DiffAdd     guibg=#222222 guifg=NONE      gui=NONE
 hi DiffDelete  guibg=#222222 guifg=#af5f5f      gui=NONE ctermfg=NONE
 hi DiffChange  guibg=#222222 guifg=NONE      gui=NONE
-hi DiffText    guibg=#2d3052 guifg=NONE      gui=NONE
+hi DiffText    guibg=#141414 guifg=NONE      gui=NONE
 hi Directory guifg=#b8bb26 guibg=NONE gui=bold cterm=bold
 hi EndOfBuffer guifg=#282828 guibg=NONE gui=NONE cterm=NONE
 hi IncSearch guifg=#4780f1 guibg=NONE gui=NONE cterm=underline,bold
