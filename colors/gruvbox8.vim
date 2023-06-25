@@ -148,3 +148,4 @@ hi link vimExecute Delimiter
 hi link vimUserFunc Function
 hi link htmlTag htmlEndTag
 hi link htmlTagN htmlTagName
+hi link cssAttrRegion Constant
