@@ -106,7 +106,7 @@ hi Repeat guifg=#d85d5d guibg=NONE gui=NONE cterm=NONE
 hi SpecialChar guifg=#d85d5d guibg=NONE gui=NONE cterm=NONE
 hi SpecialComment guifg=#d85d5d guibg=NONE gui=NONE cterm=NONE
 hi Statement guifg=#d85d5d guibg=NONE gui=NONE cterm=NONE
-hi StorageClass guifg=##83a598 guibg=NONE gui=NONE cterm=NONE
+hi StorageClass guifg=#83a598 guibg=NONE gui=NONE cterm=NONE
 hi Special guifg=#bfa14e guibg=NONE gui=NONE cterm=NONE
 hi String guifg=#8ec07c guibg=NONE gui=NONE cterm=NONE
 hi Structure guifg=#8ec07c guibg=NONE gui=NONE cterm=NONE
