@@ -94,7 +94,7 @@ hi Float guifg=#d3869b guibg=NONE gui=NONE cterm=NONE
 hi Function guifg=#b8bb26 guibg=NONE gui=bold cterm=bold
 hi Identifier guifg=#83a598 guibg=NONE gui=NONE cterm=NONE
 hi Ignore guifg=fg guibg=NONE gui=NONE cterm=NONE
-hi Include guifg=#8ec07c guibg=NONE gui=NONE cterm=NONE
+hi Include guifg=#bfa14e guibg=NONE gui=NONE cterm=NONE
 hi Keyword guifg=#d85d5d guibg=NONE gui=NONE cterm=NONE
 hi Label guifg=#d85d5d guibg=NONE gui=NONE cterm=NONE
 hi Macro guifg=#8ec07c guibg=NONE gui=NONE cterm=NONE
