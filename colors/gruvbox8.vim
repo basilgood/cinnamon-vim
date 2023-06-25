@@ -146,3 +146,5 @@ hi link vimOperParen Delimiter
 hi link vimEcho Delimiter
 hi link vimExecute Delimiter
 hi link vimUserFunc Function
+hi link htmlTag htmlEndTag
+hi link htmlTagN htmlTagName
