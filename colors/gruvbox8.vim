@@ -31,13 +31,13 @@ g:terminal_ansi_colors = [
   '#928374', '#d85d5d',
   '#b8bb26', '#fabd2f',
   '#83a598', '#d3869b',
-  '#8ec07c', '#ebdbb2'
+  '#8ec07c', '#d3bf86'
   ]
 
-hi Normal guifg=#ebdbb2 guibg=#282828 gui=NONE cterm=NONE
+hi Normal guifg=#d3bf86 guibg=#282828 gui=NONE cterm=NONE
 hi CursorLineNr guifg=#8ec07c guibg=#3c3836 gui=NONE cterm=NONE
 hi FoldColumn guifg=#928374 guibg=#3c3836 gui=NONE cterm=NONE
-hi SignColumn guifg=#ebdbb2 guibg=#3c3836 gui=NONE cterm=NONE
+hi SignColumn guifg=#d3bf86 guibg=#3c3836 gui=NONE cterm=NONE
 hi VertSplit guifg=#665c54 guibg=#282828 gui=NONE cterm=NONE
 hi ColorColumn guifg=NONE guibg=#1d2021 gui=NONE cterm=NONE
 hi Comment guifg=#928374 guibg=NONE gui=NONE cterm=NONE
@@ -48,12 +48,12 @@ hi Folded guifg=#928374 guibg=#3c3836 gui=NONE cterm=NONE
 hi LineNr guifg=#504945 guibg=NONE gui=NONE cterm=NONE
 hi MatchParen guifg=NONE guibg=#504945 gui=bold,underline cterm=bold,underline
 hi NonText guifg=#504945 guibg=NONE gui=NONE cterm=NONE
-hi Pmenu guifg=#ebdbb2 guibg=#504945 gui=NONE cterm=NONE
+hi Pmenu guifg=#d3bf86 guibg=#504945 gui=NONE cterm=NONE
 hi PmenuSbar guifg=NONE guibg=#504945 gui=NONE cterm=NONE
 hi PmenuSel guifg=#504945 guibg=#83a598 gui=bold cterm=bold
 hi PmenuThumb guifg=NONE guibg=#7c6f64 gui=NONE cterm=NONE
 hi SpecialKey guifg=#504945 guibg=NONE gui=NONE cterm=NONE
-hi StatusLine guifg=#504945 guibg=#ebdbb2 gui=reverse cterm=reverse
+hi StatusLine guifg=#504945 guibg=#d3bf86 gui=reverse cterm=reverse
 hi StatusLineNC guifg=#3c3836 guibg=#a89984 gui=reverse cterm=reverse
 hi TabLine guifg=#7c6f64 guibg=#3c3836 gui=NONE cterm=NONE
 hi TabLineFill guifg=#7c6f64 guibg=#3c3836 gui=NONE cterm=NONE
