@@ -107,11 +107,11 @@ hi SpecialChar guifg=#d85d5d guibg=NONE gui=NONE cterm=NONE
 hi SpecialComment guifg=#d85d5d guibg=NONE gui=NONE cterm=NONE
 hi Statement guifg=#d85d5d guibg=NONE gui=NONE cterm=NONE
 hi StorageClass guifg=##83a598 guibg=NONE gui=NONE cterm=NONE
-hi Special guifg=#fe8019 guibg=NONE gui=NONE cterm=NONE
+hi Special guifg=#bfa14e guibg=NONE gui=NONE cterm=NONE
 hi String guifg=#8ec07c guibg=NONE gui=NONE cterm=NONE
 hi Structure guifg=#8ec07c guibg=NONE gui=NONE cterm=NONE
 hi Todo guifg=fg guibg=#282828 gui=bold,NONE cterm=bold,NONE
-hi Type guifg=#fabd2f guibg=NONE gui=NONE cterm=NONE
+hi Type guifg=#bfa14e guibg=NONE gui=NONE cterm=NONE
 hi Typedef guifg=#fabd2f guibg=NONE gui=NONE cterm=NONE
 hi Underlined guifg=#83a598 guibg=NONE guisp=#83a598 gui=underline cterm=underline
 hi CursorIM guifg=NONE guibg=NONE gui=reverse ctermfg=NONE ctermbg=NONE cterm=reverse
