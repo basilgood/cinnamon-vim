@@ -34,6 +34,11 @@ g:terminal_ansi_colors = [
   '#8ec07c', '#d3bf86'
   ]
 
+g:fzf_colors = {
+  'bg':      ['bg', 'Visual'],
+  'border':  ['bg', 'VertSplit'],
+}
+
 hi Normal guifg=#d3bf86 guibg=#282828 gui=NONE cterm=NONE
 hi CursorLineNr guifg=#8ec07c guibg=#3c3836 gui=NONE cterm=NONE
 hi FoldColumn guifg=#928374 guibg=#3c3836 gui=NONE cterm=NONE
@@ -48,8 +53,8 @@ hi Folded guifg=#928374 guibg=#3c3836 gui=NONE cterm=NONE
 hi LineNr guifg=#504945 guibg=NONE gui=NONE cterm=NONE
 hi MatchParen guifg=NONE guibg=#504945 gui=bold,underline cterm=bold,underline
 hi NonText guifg=#504945 guibg=NONE gui=NONE cterm=NONE
-hi Pmenu guifg=#d3bf86 guibg=#504945 gui=NONE cterm=NONE
-hi PmenuSbar guifg=NONE guibg=#504945 gui=NONE cterm=NONE
+hi Pmenu guifg=#d3bf86 guibg=#222222 gui=NONE cterm=NONE
+hi PmenuSbar guifg=NONE guibg=#222222 gui=NONE cterm=NONE
 hi PmenuSel guifg=#504945 guibg=#83a598 gui=bold cterm=bold
 hi PmenuThumb guifg=NONE guibg=#7c6f64 gui=NONE cterm=NONE
 hi SpecialKey guifg=#504945 guibg=NONE gui=NONE cterm=NONE
@@ -60,7 +65,7 @@ hi TabLineFill guifg=#7c6f64 guibg=#3c3836 gui=NONE cterm=NONE
 hi TabLineSel guifg=#b8bb26 guibg=#3c3836 gui=NONE cterm=NONE
 hi ToolbarButton guifg=#fbf1c7 guibg=#665c54 gui=bold cterm=bold
 hi ToolbarLine guifg=NONE guibg=#665c54 gui=NONE cterm=NONE
-hi Visual guifg=NONE guibg=#1d2021 gui=NONE cterm=NONE
+hi Visual guifg=NONE guibg=#141414 gui=NONE cterm=NONE
 hi WildMenu guifg=#83a598 guibg=#504945 gui=bold cterm=bold
 hi Conceal guifg=#83a598 guibg=NONE gui=NONE cterm=NONE
 hi Cursor guifg=NONE guibg=NONE gui=reverse ctermfg=NONE ctermbg=NONE cterm=reverse
@@ -70,12 +75,12 @@ hi DiffChange  guibg=#222222 guifg=NONE      gui=NONE
 hi DiffText    guibg=#141414 guifg=NONE      gui=NONE
 hi Directory guifg=#b8bb26 guibg=NONE gui=bold cterm=bold
 hi EndOfBuffer guifg=#282828 guibg=NONE gui=NONE cterm=NONE
-hi IncSearch guifg=#4780f1 guibg=NONE gui=NONE cterm=underline,bold
-hi CurSearch guifg=#4780f1 guibg=NONE gui=NONE cterm=underline,bold
+hi IncSearch guifg=#4780f1 guibg=NONE gui=NONE cterm=NONE
+hi CurSearch guifg=#4780f1 guibg=NONE gui=NONE cterm=NONE
 hi ModeMsg guifg=#fabd2f guibg=NONE gui=bold cterm=bold
 hi MoreMsg guifg=#fabd2f guibg=NONE gui=bold cterm=bold
 hi Question guifg=#fe8019 guibg=NONE gui=bold cterm=bold
-hi Search guifg=#1eb81e guibg=NONE gui=NONE cterm=underline,bold
+hi Search guifg=#1eb81e guibg=NONE gui=NONE cterm=NONE
 hi SpellBad guifg=#d85d5d guibg=NONE guisp=#d85d5d gui=NONE,undercurl cterm=NONE,underline
 hi SpellCap guifg=#83a598 guibg=NONE guisp=#83a598 gui=NONE,undercurl cterm=NONE,underline
 hi SpellLocal guifg=#8ec07c guibg=NONE guisp=#8ec07c gui=NONE,undercurl cterm=NONE,underline
@@ -132,13 +137,13 @@ hi link CocGitChangedSign GitGutterChange
 hi link CocGitRemovedSign GitGutterDelete
 hi link CocGitTopRemovedSign GitGutterDelete
 hi link CocCodeLens Comment
-hi GitGutterAdd guifg=#b8bb26 guibg=#3c3836 gui=NONE cterm=NONE
-hi GitGutterChange guifg=#8ec07c guibg=#3c3836 gui=NONE cterm=NONE
+hi GitGutterAdd guifg=#8ec07c guibg=#3c3836 gui=NONE cterm=NONE
+hi GitGutterChange guifg=#b8bb26 guibg=#3c3836 gui=NONE cterm=NONE
 hi GitGutterDelete guifg=#d85d5d guibg=#3c3836 gui=NONE cterm=NONE
-hi GitGutterChangeDelete guifg=#8ec07c guibg=#3c3836 gui=NONE cterm=NONE
-hi diffAdded guifg=#b8bb26 guibg=NONE gui=NONE cterm=NONE
+hi GitGutterChangeDelete guifg=#d85d5d guibg=#3c3836 gui=NONE cterm=NONE
+hi diffAdded guifg=#8ec07c guibg=NONE gui=NONE cterm=NONE
 hi diffRemoved guifg=#d85d5d guibg=NONE gui=NONE cterm=NONE
-hi diffChanged guifg=#8ec07c guibg=NONE gui=NONE cterm=NONE
+hi diffChanged guifg=#b8bb26 guibg=NONE gui=NONE cterm=NONE
 hi diffFile guifg=#fe8019 guibg=NONE gui=NONE cterm=NONE
 hi diffNewFile guifg=#fabd2f guibg=NONE gui=NONE cterm=NONE
 hi diffLine guifg=#83a598 guibg=NONE gui=NONE cterm=NONE
