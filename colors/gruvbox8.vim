@@ -65,7 +65,7 @@ hi TabLineFill guifg=#7c6f64 guibg=#3c3836 gui=NONE cterm=NONE
 hi TabLineSel guifg=#b8bb26 guibg=#3c3836 gui=NONE cterm=NONE
 hi ToolbarButton guifg=#fbf1c7 guibg=#665c54 gui=bold cterm=bold
 hi ToolbarLine guifg=NONE guibg=#665c54 gui=NONE cterm=NONE
-hi Visual guifg=NONE guibg=#141414 gui=NONE cterm=NONE
+hi Visual guifg=NONE guibg=#3c3836 gui=NONE cterm=NONE
 hi WildMenu guifg=#83a598 guibg=#504945 gui=bold cterm=bold
 hi Conceal guifg=#83a598 guibg=NONE gui=NONE cterm=NONE
 hi Cursor guifg=NONE guibg=NONE gui=reverse ctermfg=NONE ctermbg=NONE cterm=reverse
