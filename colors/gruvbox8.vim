@@ -75,12 +75,12 @@ hi DiffChange  guibg=#222222 guifg=NONE      gui=NONE
 hi DiffText    guibg=#141414 guifg=NONE      gui=NONE
 hi Directory guifg=#b8bb26 guibg=NONE gui=bold cterm=bold
 hi EndOfBuffer guifg=#282828 guibg=NONE gui=NONE cterm=NONE
-hi IncSearch guifg=#4780f1 guibg=NONE gui=NONE cterm=NONE
-hi CurSearch guifg=#4780f1 guibg=NONE gui=NONE cterm=NONE
+hi IncSearch guifg=NONE guibg=#134a71 gui=NONE cterm=NONE
+hi CurSearch guifg=NONE guibg=#134a71 gui=NONE cterm=NONE
 hi ModeMsg guifg=#fabd2f guibg=NONE gui=bold cterm=bold
 hi MoreMsg guifg=#fabd2f guibg=NONE gui=bold cterm=bold
 hi Question guifg=#fe8019 guibg=NONE gui=bold cterm=bold
-hi Search guifg=#1eb81e guibg=NONE gui=NONE cterm=NONE
+hi Search guifg=NONE guibg=#4f4b4a gui=NONE cterm=NONE
 hi SpellBad guifg=#d85d5d guibg=NONE guisp=#d85d5d gui=NONE,undercurl cterm=NONE,underline
 hi SpellCap guifg=#83a598 guibg=NONE guisp=#83a598 gui=NONE,undercurl cterm=NONE,underline
 hi SpellLocal guifg=#8ec07c guibg=NONE guisp=#8ec07c gui=NONE,undercurl cterm=NONE,underline
