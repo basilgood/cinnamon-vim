@@ -23,8 +23,13 @@ hi Special guifg=#dcdcaa
 hi SignColumn guibg=#1e1e1e
 hi VertSplit guifg=#1e1e1e guibg=#4a4a4a
 hi LineNr guifg=#4a4a4a guibg=#1e1e1e
-hi StatusLine guifg=#4a4a4a guibg=#a7a7a7
-hi StatusLineNC guifg=#4a4a4a guibg=#7a7a7a
+hi FoldColumn guibg=#1e1e1e
+hi Folded guifg=#4a4a4a guibg=#222222
+hi StatusLine guifg=#2a2a2a
+hi StatusLineNC guifg=#2a2a2a
+hi Pmenu guibg=#252526
+hi SpecialKey guifg=#4a4a4a
+hi NonText guifg=#4a4a4a
 hi Delimiter guifg=#878787
 hi Comment guifg=#4a6b3b
 hi Number guifg=#b5cea8
@@ -54,3 +59,15 @@ hi link vimUserFunc Function
 hi link htmlTag htmlEndTag
 hi link htmlTagN htmlTagName
 hi link cssAttrRegion Constant
+hi link CocCodeLens Comment
+hi link CocErrorSign ALEErrorSign
+hi link CocWarningSign ALEWarningSign
+hi link CocInfoSign ALEInfoSign
+hi link CocHintSign ALEInfoSign
+hi link CocErrorHighlight ALEError
+hi link CocWarningHighlight ALEWarning
+hi link CocInfoHighlight ALEInfo
+hi jsFuncBlock guifg=#6d9ab1
+hi jsObjectKey guifg=#6d9ab1
+hi jsParen guifg=#6d9ab1
+hi jsModuleKeyword guifg=#6d9ab1
