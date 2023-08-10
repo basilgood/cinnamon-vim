@@ -7,7 +7,7 @@ hi clear
 g:colors_name = 'vscode'
 
 g:fzf_colors = {
-  'bg':      ['bg', 'Visual'],
+  'bg':      ['bg', 'Normal'],
   'border':  ['bg', 'VertSplit'],
 }
 
