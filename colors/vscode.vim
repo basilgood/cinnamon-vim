@@ -25,8 +25,8 @@ hi VertSplit guifg=#1e1e1e guibg=#4a4a4a
 hi LineNr guifg=#4a4a4a guibg=#1e1e1e
 hi FoldColumn guibg=#1e1e1e
 hi Folded guifg=#4a4a4a guibg=#222222
-hi StatusLine guifg=#2a2a2a
-hi StatusLineNC guifg=#2a2a2a
+hi StatusLine guifg=#2a2a2a guibg=#a7a7a7
+hi StatusLineNC guifg=#2a2a2a guibg=#7a7a7a
 hi Pmenu guibg=#252526
 hi SpecialKey guifg=#4a4a4a
 hi NonText guifg=#4a4a4a
