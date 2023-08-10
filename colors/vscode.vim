@@ -35,6 +35,7 @@ hi Delimiter guifg=#878787
 hi Comment guifg=#4a6b3b
 hi Number guifg=#b5cea8
 hi Operator guifg=#bebebe
+hi Title guifg=#dcdcaa cterm=bold gui=bold
 hi DiffAdd     guibg=#222222 guifg=NONE      gui=NONE
 hi DiffDelete  guibg=#222222 guifg=#af5f5f      gui=NONE ctermfg=NONE
 hi DiffChange  guibg=#222222 guifg=NONE      gui=NONE
